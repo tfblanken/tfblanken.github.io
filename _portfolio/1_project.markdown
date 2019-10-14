@@ -3,6 +3,7 @@ layout: post
 title: ITQ
 description: insomnia type questionnaire
 img: /img/amsterdam_lights1.jpg
+redirect: https://www.dropbox.com/s/1t7iqpb5klkddr8/EN_ITQ-200_questions_and_scoring.pdf?dl=0
 ---
 
 page under construction

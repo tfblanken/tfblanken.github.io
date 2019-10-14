@@ -3,6 +3,7 @@ layout: post
 title: cv
 description: 
 img: 
+redirect: https://www.dropbox.com/s/tv4ojv8tgzgaume/CurriculumVitae.pdf?dl=0
 ---
 
 Under construction
