@@ -1,5 +1,5 @@
 # *folio
-A simple theme for showcasing your work, emphasis on whitespace, transparency, and helvetica. 
+Tessa Blanken | PhD Student | Insomnia · Depression · Network Models · Complex Systems
 
 
 <a href="http://liabogoev.com/-folio">Live Demo</a>
