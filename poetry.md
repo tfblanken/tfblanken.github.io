@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /poetry/
+permalink: /papers/
 title: papers
 description: scientific papers
 ---
