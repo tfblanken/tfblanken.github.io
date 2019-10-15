@@ -5,59 +5,43 @@ description: and posters
 img: /img/budapest1.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+**invited presentations**
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+“Big data en netwerk interventie analyse onthullen subtypen van slapeloosheid en hoe behandeling op depressieve symptomen aangrijpt.” Invited presentation for the symposium “Wanhopig wakker: nieuw Nederlands onderzoek naar slaap en slapeloosheid in de psychiatrie” at the NVVP voorjaarscongres, April 2019, Maastricht, The Netherlands. <a href="https://www.dropbox.com/s/1rkfjrdffggorpy/1904_Blanken_VJC_NVvP.pdf?dl=0" target="blank">[PDF]</a>
 
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+“Overlapping communities in psychopathology networks.” Invited presentation at Tamas Vicsek lab at the Department of Biological Physics, Eötvös University Budapest, November 2018, Budapest, Hungary.
+“Trait and life history profiles reveal stable insomnia subtypes.” Invited presentation for the symposium “The Big Sleep: Unravelling insomnia using big data”, presented at the 24th Congress of the European Sleep Research Society, September 2018, Basel, Switzerland.
 
+“Het Nederlands slaapregister: Hoe het Nederlands slaapregister het mogelijk maakt om subtypen van slapeloosheid te ontdekken.” Invited presentation at Slaap 2017, November 2017, Ermelo, The Netherlands.
 
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/friends.jpg" alt="" title="example image"/>
-	<img class="col two" src="{{ site.baseurl }}/img/family.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
+“Slapeloosheid vanuit een netwerkbenadering: De samenhang tussen dag- en nachtklachten.” Invited presentation for the symposium “Slapeloosheid als centraal symptoom in psychopathologie”, presented at VGCT najaarscongres, November 2017, Veldhoven, The Netherlands.
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+“Netwerkbenadering van verschillende subtypen onder slapelozen.” Invited presentation for the symposium “De netwerkbenadering van psychopathologie geïllustreerd”, presented at VGCT najaarscongres, November 2017, Veldhoven, The Netherlands.
+
+<br/>
 
 
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/nyc_bruun_tes.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/nyc_bridge.jpg" alt="" title="example image"/>
-</div>
+**conference presentations**
 
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/italy1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/italy2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/italy3.jpg" alt="" title="example image"/>
-</div>
+“Insomnia heterogeneity and its link to depression: insights from an observational, prospective, and intervention study.” Presented at the Insomnia Symposium, October 2019, Hannover, Germany.
 
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/dutch_sea.jpg" alt="" title="example image"/>
-	<img class="col two" src="{{ site.baseurl }}/img/camping.jpg" alt="" title="example image"/>
-</div>
+“Insomnia heterogeneity and its link to depression: insights from an observational, prospective, and intervention study.” Presented at the Summer Conference of the Interuniversity Graduate School of Psychometrics and Sociometrics, June 2019, Utrecht, The Netherlands.
+
+“Introducing Network Intervention Analysis (NIA) to investigate sequential, symptom-specific treatment effects. A demonstration in co-occurring insomnia and depression.” Presented at the European Insomnia Network Meeting, December 2018, Oxford, United Kingdom.
+
+“Insomnia profiles: from heterogeneous insomnia to (more) homogeneous subtypes.” Presented at the 3rd Wintersymposium on Sleep, Cognition, and Consciousness, March 2017, Kaprun, Austria. 
+
+“Insomnia profiles: preliminary results of a latent class cluster analysis.” Presented at the European Insomnia Network Meeting, December 2016, Amsterdam, The Netherlands. 
+
+<br/>
 
 
+**posters**
 
-<br/><br/><br/>
+“Network Intervention Analysis. Investigating sequential, symptom-specific treatment effects: A demonstration in co-occurring insomnia and depression” Poster presented at the 3rd Annual Meeting of the Amsterdam Public Health Research Institute, November 2018, Amsterdam. Awarded 2nd Place of the Best Poster Award.
 
+“Robust Insomnia Disorder subtypes revealed by non-sleep-related traits and life history.” Poster presented at the NSWO Najaarssymposium, November 2018, VU University, Amsterdam.
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
+“Robust Insomnia Disorder subtypes revealed by non-sleep-related traits and life history.” Post presented at the Annual Meeting Amsterdam Neuroscience, October 2018, Amsterdam.
 
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+“Insomnia profiles: from heterogeneous insomnia to (more) homogenous subtypes.” Poster presented at the Summer Conference of the Interuniversity Graduate School of Psychometrics and Sociometrics, June 2017, KU Leuven, Belgium. Award the Best Poster Award.
