@@ -1,8 +1,9 @@
 # Site settings
 title: *folio
+name: Tessa Blanken
 email: tessablanken@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  Tessa Blanken | PhD Student | Insomnia · Depression · Network Models · Complex Systems
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: tfblanken
