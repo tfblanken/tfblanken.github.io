@@ -9,7 +9,7 @@ description: scientific papers
 
 **Blanken TF**, Van Someren EJW. (2019). Subtyping insomnia disorder — Authors’ reply. *The Lancet Psychiatry, 6,* 285—286. <a href="https://www.thelancet.com/pdfs/journals/lanpsy/PIIS2215-0366(19)30079-3.pdf" target="blank">[PDF]</a>
 
-**Blanken TF**, Benjamins JS, Borsboom D, Vermunt JK, Paquola C, Ramautar J, Dekker K, Stoffers D, Wassing R, Wei Y, Van Someren EJW. (2019). Robust insomnia disorder subtypes revealed by non-sleep-related traits and life history. *The Lancet Psychiatry, 6,* 151—163. <a href="https://pure.knaw.nl/portal/files/9406926/Blanken2019Repository_Insomnia_Subtypes_Manuscript.pdf5" target="blank">[PDF]</a>
+**Blanken TF**, Benjamins JS, Borsboom D, Vermunt JK, Paquola C, Ramautar J, Dekker K, Stoffers D, Wassing R, Wei Y, Van Someren EJW. (2019). Robust insomnia disorder subtypes revealed by non-sleep-related traits and life history. *The Lancet Psychiatry, 6,* 151—163. <a href="https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(18)30464-4/fulltext" target="blank">[PDF]</a>
 
 **Blanken TF**\*, Van der Zweerde T\*, Van Straten A, Van Someren EJW, Borsboom D, Lancee J.  (2019). Treating co-occurring insomnia and depression symptoms: Introducing Network Intervention Analysis to reveal sequential, symptom-specific effects of online insomnia treatment. *Psychotherapy and Psychosomatics, 8,* 52—54. <a href="https://www.karger.com/Article/FullText/495045" target="blank">[PDF]</a>
 

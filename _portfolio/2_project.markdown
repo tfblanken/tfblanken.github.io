@@ -5,7 +5,7 @@ description: radio + newspapers + online magazines
 img: /img/dutch_sea2.jpg
 ---
 
-Our paper <a href="https://pure.knaw.nl/portal/files/9406926/Blanken2019Repository_Insomnia_Subtypes_Manuscript.pdf5" target="blank">on insomnia subtypes</a> got published online January 8th 2019 in *The Lancet Psychiatry*. Media coverage on the paper (in different languages) can be found <a href="https://pure.knaw.nl/portal/en/clippings/meer-helderheid-in-slapeloosheid(144caf18-50c7-48b1-a7a5-0ba90281e831).html">here</a>.
+Our paper <a href="https://www.researchgate.net/publication/330256475_Insomnia_disorder_subtypes_derived_from_life_history_and_traits_of_affect_and_personality" target="blank">on insomnia subtypes</a> got published online January 8th 2019 in *The Lancet Psychiatry*. Media coverage on the paper (in different languages) can be found <a href="https://pure.knaw.nl/portal/en/clippings/meer-helderheid-in-slapeloosheid(144caf18-50c7-48b1-a7a5-0ba90281e831).html">here</a>.
 
 some highlights:
 
