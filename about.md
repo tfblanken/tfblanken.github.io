@@ -19,7 +19,7 @@ My project mainly evolves around the heterogeneity of insomnia and its relations
 
 In order to investigate these clinical questions, I am always exploring new ways to advance our methodologies such that we can optimize the translation of clinical questions into research questions and analyses.
 
-In conducting my research, I had the opportunity to work together and learn from many different researchers and research labs. I have outlined all of them in <<LINK>>.  
+In conducting my research, I had the opportunity to work together and learn from many different researchers and research labs. I have outlined all of them <a href="https://tfblanken.github.io/portfolio/6_collaborations/" target="blank">here</a>. 
 
 I am supervised by <a href="https://nin.nl/research/researchgroups/van-someren-group/" target="blank">Prof. dr. Eus van Someren</a> and <a href="https://dennyborsboom.com/" target="blank">Prof. dr. Denny Borsboom</a>. This project is funded through an ERC Advanced Grant (ERC-ADG-2014-671084-INSOMNIA) awarded to Eus van Someren and a VU University Research Fellowship 2016-2017 awarded to Tessa Blanken. 
 
