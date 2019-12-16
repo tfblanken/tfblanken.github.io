@@ -2,7 +2,7 @@
 layout: post
 title:  Trondheim
 date:   2019-12-16 13:00:16
-description: Workshop: "Network analysis for psychology using R"
+description: Workshop on Network analysis for psychology using R
 ---
 
 
