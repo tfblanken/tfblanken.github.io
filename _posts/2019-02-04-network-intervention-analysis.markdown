@@ -11,7 +11,7 @@ According to the <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5269502/"
 In our illustration of NIA we investigated the effect of cognitive behavioral therapy for insomnia (CBTI) on co-occurring insomnia and depression symptoms. More traditional analyses had showed that after completion, the treatment had relieved both insomnia and depression symptoms <a href="https://www.ncbi.nlm.nih.gov/pubmed/29747706" target="blank">[4]</a>. It remained unclear, however, whether the effect of treatment on the depression symptoms occurred via improving the sleep problems, or whether CBTI influenced the depression symptoms directly. Using NIA across 10 measurement weeks (2 prior to treatment, 5 during treatment, and 3 after treatment) we could identify that CBTI predominantly affected the sleep problems, indicating that the improvements in depression likely occur via CBTI-induced improvements in sleep.
 
 
-<img src="/img/nia_blog.jpg" alt="drawing" width="800"/>
+<img src="/img/NIA_blog.jpg" alt="drawing" width="800"/>
 
 <div class="col three caption">
 	Figure. Network structure before, during, and after treatment. The networks include the Insomnia Severity Index and Patient Health Questionnaire items (circles) and treatment (square). The size of the node is proportional to the difference in symptom severity between the treatment and control group, where smaller node sizes represent greater differences in favor of the treatment group. All ten networks corresponding to each of the measurement weeks are shown in the paper. An animated version can be found online.
