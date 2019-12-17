@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Trondheim
+title:  trondheim, norway
 date:   2019-12-16 13:00:16
 description: Workshop on Network analysis for psychology using R
 ---
@@ -21,6 +21,8 @@ We are very much looking forward to host the workshop "Network analysis for psyc
 
 
 For the first day the materials can be found <a href="https://www.dropbox.com/sh/uacei0j4pyskta3/AAC66iL4UidefI4jmJGUE_fka?dl=0" target="blank">here</a>.
+
+For the second day the materials can be found <a href="https://www.dropbox.com/sh/tura6beuuzer9ng/AADU-I7YR0WrVAYFnZn-hN7Aa?dl=0" target="blank">here</a>.
 
 Best,
 
