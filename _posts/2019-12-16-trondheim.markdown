@@ -2,7 +2,7 @@
 layout: post
 title:  trondheim, norway
 date:   2019-12-16 13:00:16
-description: Workshop on Network analysis for psychology using R
+description: workshop on network analysis for psychology using R
 ---
 
 
