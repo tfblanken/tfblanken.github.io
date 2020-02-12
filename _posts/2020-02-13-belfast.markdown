@@ -5,10 +5,14 @@ date:   2019-12-16 13:00:16
 description: workshop on networks in psychology
 ---
 
+<img src="/img/200212_belfasts_schedule.jpg" alt="drawing" width="800"/>
+
+<br/>
+<br/>
 
 Hi! 
 
-We are very much looking forward to host the workshop "Networks in Psychology". Each day will consist of two lectures and practicals, see schedule below, for which we will post the material online. 
+We are very much looking forward to host the workshop "Networks in Psychology"! Each day will consist of two lectures and practicals, see schedule.
 
 The practicals for the first day can be found <a href="https://www.dropbox.com/sh/enrzcsm5v9cfuzh/AADLRYKmYWOCAg24KwPDP8LQa?dl=0" target="blank">here</a>.
 
@@ -17,7 +21,3 @@ Best,
 Marie & Tessa
 
 
-<img src="/img/200212_belfasts_schedule.jpg" alt="drawing" width="800"/>
-
-<br/>
-<br/>
