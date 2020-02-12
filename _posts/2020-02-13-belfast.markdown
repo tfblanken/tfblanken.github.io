@@ -6,15 +6,6 @@ description: workshop on networks in psychology
 ---
 
 
-<img src="/img/191216_trondheim.jpg" alt="drawing" width="800"/>
-
-<div class="col three caption">
-	Beautiful sunset while landing in Trondheim!
-</div>
-
-<br/>
-<br/>
-
 Hi! 
 
 We are very much looking forward to host the workshop "Networks in Psychology". Each day will consist of two lectures and practicals, see schedule below, for which we will post the material online. 
