@@ -15,18 +15,7 @@ description: workshop on network analysis for psychology using R
 <br/>
 <br/>
 
-Hi! 
-
-We are very much looking forward to host the workshop "Network analysis for psychology using R". Each day will consist of two lectures and practicals, see schedule below, for which we will post the material online. 
-
-
-For the first day the materials can be found <a href="https://www.dropbox.com/sh/uacei0j4pyskta3/AAC66iL4UidefI4jmJGUE_fka?dl=0" target="blank">here</a>.
-
-For the second day the materials can be found <a href="https://www.dropbox.com/sh/tura6beuuzer9ng/AADU-I7YR0WrVAYFnZn-hN7Aa?dl=0" target="blank">here</a>.
-
-Best,
-
-Tessa & <a href="http://gabylunansky.com/" target="blank">Gaby</a> 
+On December 17 and 18 <a href="http://gabylunansky.com/" target="blank">Gaby Lunansky</a> and myself gave a workshop on network analysis for psychology using R in Trondheim, Norway. The schedule for the workhsop is shown below. We're happy to share our materials upon request!
 
 
 <img src="/img/191216_trondheim_schedule.jpg" alt="drawing" width="800"/>
