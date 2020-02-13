@@ -7,7 +7,7 @@ description: scientific papers
 
 2019
 
-**Blanken TF**, Borsboom D, Penninx BWJH, Van Someren EJW. Network Outcome Analysis identifies difficulty imitating sleep as primary target for prevention of depression: A six-year prospective study. Sleep (in press). <a href="https://academic.oup.com/sleep/advance-article/doi/10.1093/sleep/zsz288/5650354" target="blank">[PDF]</a>
+**Blanken TF**, Borsboom D, Penninx BWJH, Van Someren EJW. Network Outcome Analysis identifies difficulty imitating sleep as primary target for prevention of depression: A six-year prospective study. *Sleep* (in press). <a href="https://academic.oup.com/sleep/advance-article/doi/10.1093/sleep/zsz288/5650354" target="blank">[PDF]</a>
 
 **Blanken TF**, Van Someren EJW. Subtyping insomnia disorder — Authors’ reply. *Lancet Psychiatry*  2019; 6: 285—86. <a href="https://www.thelancet.com/pdfs/journals/lanpsy/PIIS2215-0366(19)30079-3.pdf" target="blank">[PDF]</a>
 
@@ -25,7 +25,7 @@ Letina S, **Blanken TF**, Deserno MK, Borsboom D. Expanding network analysis too
 
 **Blanken TF**\*, **Dekker K**\*, Van Someren EJW. How personality profile similar- ity can improve comparability between assessment formats: an example of the Mini-IPIP and IPIP-NEO-120 in a Dutch community sample. PsyArXiv 2018; doi:10.31234/osf.io/pjtgv. [non peer reviewed]
 
-Wei Y, **Blanken TF**, Van Someren EJW. (2018). Insomnia really hurts: Habitual insomnia increases the acute effect of a bad night’s sleep on pain. *Frontiers in Psychiatry, 9,* 377. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6121188/" target="blank">[PDF]</a>
+Wei Y, **Blanken TF**, Van Someren EJW. Insomnia really hurts: Habitual insomnia increases the acute effect of a bad night’s sleep on pain. *Front Psychiatry* 2018; 9: 377. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6121188/" target="blank">[PDF]</a>
 
 <br/>
 
