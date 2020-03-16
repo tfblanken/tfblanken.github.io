@@ -7,7 +7,7 @@ img: /img/sea.jpg
 
 2020
 
-I was asked to reflect on my research on insomnia for Glamour as one of the 'powerful women' :muscle:!
+I was asked to reflect on my research on insomnia for Glamour as one of the 'powerful women'!
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Sweet dreams 😴 <a href="https://t.co/7uRcMuUbyL">https://t.co/7uRcMuUbyL</a></p>&mdash; Glamour (@glamourmag) <a href="https://twitter.com/glamourmag/status/1237874710802653188?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
