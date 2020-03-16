@@ -12,14 +12,10 @@ I was asked to reflect on my research on insomnia for Glamour as one of the 'pow
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Sweet dreams 😴 <a href="https://t.co/7uRcMuUbyL">https://t.co/7uRcMuUbyL</a></p>&mdash; Glamour (@glamourmag) <a href="https://twitter.com/glamourmag/status/1237874710802653188?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <br/>
-<br/>
-
 ----
+<br/>
 
 2019
-
-<br/>
-<br/>
 
 Our paper <a href="https://www.researchgate.net/publication/330256475_Insomnia_disorder_subtypes_derived_from_life_history_and_traits_of_affect_and_personality" target="blank">on insomnia subtypes</a> got published online January 8th 2019 in *The Lancet Psychiatry*. Media coverage on the paper (in different languages) can be found <a href="https://pure.knaw.nl/portal/en/clippings/meer-helderheid-in-slapeloosheid(144caf18-50c7-48b1-a7a5-0ba90281e831).html">here</a>.
 
@@ -43,12 +39,9 @@ some highlights:
 	Media coverage in The Netherlands (left), Ukrain (middle), and Mexico (right).
 </div>
 
-<br/>
-<br/>
 
+<br/>
 ----
-
-<br/>
 <br/>
 
 2018
