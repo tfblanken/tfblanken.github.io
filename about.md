@@ -7,7 +7,7 @@ permalink: /about/
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/marie_verdediging.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/marie-promotie-papa.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/prof_pic.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/presentation_vgct.jpg" alt="" title="example image"/>
 </div>
