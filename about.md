@@ -13,15 +13,11 @@ permalink: /about/
 </div>
 
 <br/>
-I am a PhD student at the Netherlands Institute for Neurosciance, an institute of the Royal Netherlands Acadamy of Arts and Sciences, in the department <a href="https://nin.nl/research/researchgroups/van-someren-group/" target="blank">Sleep and Cognition</a>. 
+I am currently working as a postdoctoral researcher at the Netherlands Institute for Neuroscience and the University of Amsterdam. My research evolves around the complex interplay between insomnia and depression, both at the behavioural and biological level. I get particularly excited when I can bring together new developments in biological research (eg, big consortia) with methodological innovations (eg, network analyses). 
 
-My project mainly evolves around the heterogeneity of insomnia and its relations to depression. Our hope is to better differentiate among those who suffer from insomnia disorder to provide them better, more personalised treatment, and to identify those most at risk for depression. 
+At the Netherlands Institute for Neuroscience, I am affiliated to the Sleep and Cognition department, led by <a href="https://nin.nl/research/researchgroups/van-someren-group/" target="blank">Eus van Someren</a>; while at the University of Amsterdam I am part of the psychosystems  group led by <a href="https://dennyborsboom.com/" target="blank">Denny Borsboom</a>. Being part of both teams allows me to learn both "languages", and be at the heart of both biological and methodological developments. 
 
-In order to investigate these clinical questions, I am always exploring new ways to advance our methodologies such that we can optimize the translation of clinical questions into research questions and analyses.
-
-In conducting my research, I had the opportunity to work together and learn from many different researchers and research labs. I have outlined all of them <a href="https://tfblanken.github.io/portfolio/6_collaborations/" target="blank">here</a>. 
-
-I am supervised by <a href="https://nin.nl/research/researchgroups/van-someren-group/" target="blank">Prof. dr. Eus van Someren</a> and <a href="https://dennyborsboom.com/" target="blank">Prof. dr. Denny Borsboom</a>. This project is funded through an ERC Advanced Grant (ERC-ADG-2014-671084-INSOMNIA) awarded to Eus van Someren and a VU University Research Fellowship 2016-2017 awarded to Tessa Blanken. 
+Next to bridging biology and methodology, my main motivation comes from clinical questions: how can we better help the people suffering from insomnia? How can we detect the people at risk for depression? How can one problem lead to the next, by what mechanisms? In order to investigate these clinical questions, I am always exploring new ways to advance our methodologies such that we can optimize the translation of clinical questions into research questions and analyses.
 
 
 
