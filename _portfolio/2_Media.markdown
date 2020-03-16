@@ -12,6 +12,8 @@ I was asked to reflect on my research on insomnia for Glamour as one of the 'pow
 <br/>
 <br/>
 
+----
+
 Our paper <a href="https://www.researchgate.net/publication/330256475_Insomnia_disorder_subtypes_derived_from_life_history_and_traits_of_affect_and_personality" target="blank">on insomnia subtypes</a> got published online January 8th 2019 in *The Lancet Psychiatry*. Media coverage on the paper (in different languages) can be found <a href="https://pure.knaw.nl/portal/en/clippings/meer-helderheid-in-slapeloosheid(144caf18-50c7-48b1-a7a5-0ba90281e831).html">here</a>.
 
 some highlights:
@@ -36,6 +38,8 @@ some highlights:
 
 <br/>
 <br/>
+
+----
 
 I was interviewed about my research on insomnia subtypes by Neurologylive at the European Sleep Research Society (ESRS) conference. In this interview I explain how my research may benefit our understanding of insomnia.
 
