@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  data scientists against corona
-date:   2020-03-12 13:00:16
+date:   2020-04-08 13:00:16
 description: help society in its battle against corona
 ---
 
