@@ -13,11 +13,12 @@ permalink: /about/
 </div>
 
 <br/>
-I am currently working as a postdoctoral researcher at the Netherlands Institute for Neuroscience and the University of Amsterdam. My research evolves around the complex interplay between insomnia and depression, both at the behavioural and biological level. I get particularly excited when I can bring together new developments in biological research (eg, big consortia) with methodological innovations (eg, network analyses). 
+I am currently working as a postdoctoral researcher at the Netherlands Institute for Neuroscience (NIN) and the University of Amsterdam (UvA). My research evolves around the complex interplay between insomnia and depression, both at the behavioural and biological level. In all research projects, I try to think about how this research can ultimately benefit the people. How can we better help the people suffering from insomnia? How can we detect people at risk for depression, enabling us to prevent rather than treat? In order to investigate these clinical questions, I get particularly excited when I can bring together new developments in clinical and biological research with methodological innovations. 
 
-At the Netherlands Institute for Neuroscience, I am affiliated to the Sleep and Cognition department, led by <a href="https://nin.nl/research/researchgroups/van-someren-group/" target="blank">Eus van Someren</a>; while at the University of Amsterdam I am part of the psychosystems  group led by <a href="https://dennyborsboom.com/" target="blank">Denny Borsboom</a>. Being part of both teams allows me to learn both "languages", and be at the heart of both biological and methodological developments. 
+Being part of the <a href="https://nin.nl/research/researchgroups/van-someren-group/" target="blank">Sleep and Cognition</a> group at the NIN, and the <a href="http://psychosystems.org/" target="blank">psychosystems</a> group at the UvA, allows me to learn both "languages", and be at the heart of clinical, biological, and methodological developments. 
 
-Next to bridging biology and methodology, my main motivation comes from clinical questions: how can we better help the people suffering from insomnia? How can we detect the people at risk for depression? How can one problem lead to the next, by what mechanisms? In order to investigate these clinical questions, I am always exploring new ways to advance our methodologies such that we can optimize the translation of clinical questions into research questions and analyses.
+In my drive to conduct research to benefit people (and society), I have co-founded <a href="https://dataversuscorona.com/" target="blank">Data scientists Against Corona</a>, a platform that unites data-scientists from all over the world to join forces in the battle against the pandemic. 
+
 
 
 
