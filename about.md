@@ -17,7 +17,7 @@ I am currently working as a postdoctoral researcher at the Netherlands Institute
 
 Being part of the <a href="https://nin.nl/research/researchgroups/van-someren-group/" target="blank">Sleep and Cognition</a> group at the NIN, and the <a href="http://psychosystems.org/" target="blank">psychosystems</a> group at the UvA, allows me to learn both "languages", and be at the heart of clinical, biological, and methodological developments. 
 
-In my drive to conduct research to benefit people (and society), I have co-founded the platform <a href="https://scienceversuscorona.com/" target="blank">Science versus Corona</a>, where we support research on COVID-19 (<a href="https://dataversuscorona.com/" target="blank">Data versus Corona</a>) and work on possible exit stratgies <a href="https://strategiesversuscorona.com/" target="blank">Strategies versus Corona</a>.  
+In my drive to conduct research to benefit people (and society), I have co-founded the platform <a href="https://scienceversuscorona.com/" target="blank">Science versus Corona</a>, where we support research on COVID-19 (<a href="https://dataversuscorona.com/" target="blank">Data versus Corona</a>) and work on possible exit stratgies (<a href="https://strategiesversuscorona.com/" target="blank">Strategies versus Corona</a>).  
 
 
 
