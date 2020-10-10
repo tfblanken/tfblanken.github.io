@@ -9,7 +9,7 @@ description: scientific papers
 
 **Blanken TF**, Borsboom D, Penninx BWJH, Van Someren EJW. Network Outcome Analysis identifies difficulty imitating sleep as primary target for prevention of depression: A six-year prospective study. *Sleep* 2020; 43: 1--6. <a href="https://academic.oup.com/sleep/article/43/5/zsz288/5650354" target="blank">[PDF]</a>. The paper was featured as editor's choice, accompanied by an <a href="https://academic.oup.com/sleep/article-abstract/43/5/zsaa081/5835582?redirectedFrom=fulltext" target="blank">editorial</a>.
 
-Kocevska D\*, **Blanken TF**\*, Van Someren EJW, R\ösler L. Sleep quality during the COVID-19 pandemic: Not one size fits all. *Sleep  Med* 2020; in press. <a href="https://www.sciencedirect.com/science/article/pii/S1389945720304408" target="blank">[PDF]</a>. 
+Kocevska D\*, **Blanken TF**\*, Van Someren EJW, Rösler L. Sleep quality during the COVID-19 pandemic: Not one size fits all. *Sleep  Med* 2020; in press. <a href="https://www.sciencedirect.com/science/article/pii/S1389945720304408" target="blank">[PDF]</a>. 
 
 **Blanken TF**, Courbet O, Franc N, et al. Is an irritable ADHD profile traceable using personality dimensions? Replicability, stability, and predictive value over time of data-driven profiles. *Eur Child Adolesc Psychiatry* 2020. <a href="https://link.springer.com/article/10.1007/s00787-020-01546-z?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20200513" target="blank">[PDF]</a>
 
