@@ -9,6 +9,8 @@ description: scientific papers
 
 **Blanken TF**, Borsboom D, Penninx BWJH, Van Someren EJW. Network Outcome Analysis identifies difficulty imitating sleep as primary target for prevention of depression: A six-year prospective study. *Sleep* 2020; 43: 1--6. <a href="https://academic.oup.com/sleep/article/43/5/zsz288/5650354" target="blank">[PDF]</a>. The paper was featured as editor's choice, accompanied by an <a href="https://academic.oup.com/sleep/article-abstract/43/5/zsaa081/5835582?redirectedFrom=fulltext" target="blank">editorial</a>.
 
+Kocevska D\*, **Blanken TF**\*, Van Someren EJW, R\ösler L. Sleep quality during the COVID-19 pandemic: Not one size fits all. *Sleep  Med* 2020; in press. <a href="https://www.sciencedirect.com/science/article/pii/S1389945720304408" target="blank">[PDF]</a>. 
+
 **Blanken TF**, Courbet O, Franc N, et al. Is an irritable ADHD profile traceable using personality dimensions? Replicability, stability, and predictive value over time of data-driven profiles. *Eur Child Adolesc Psychiatry* 2020. <a href="https://link.springer.com/article/10.1007/s00787-020-01546-z?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20200513" target="blank">[PDF]</a>
 
 De Mooij S, **Blanken TF**, Grasman RPPP, et al. Dynamics of sleep: Exploring critical transitions and early warning signals. *Comput Meth Prog Bio* 2020; 193:105448. <a href="https://www.sciencedirect.com/science/article/pii/S0169260719319108" target="blank">[PDF]</a>
@@ -50,7 +52,7 @@ Dekker K\*, **Blanken TF**\*, Van Someren EJW. Insomnia and personality — A ne
 
 Krypotos A-M, **Blanken TF**, Arnaudova I, Matzke D, Beckers T. A primer on Bayesian analysis for experimental psychopathologists. *J Exp Psychopathol* 2017; 8: 140–157. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28748068/" target="blank">[PDF]</a>
 
-Benjamins JS, Migliorati F, Dekker K, Wassing R, Moens S, **Blanken TF**, te Lindert BHW, Mook JS, Van Someren EJW. Insomnia heterogeneity: Characteristics to consider for data-driven multivariate subtyping. *Sleep Med Rev* 2017; 37: 71—81. <a href="https://www.sciencedirect.com/science/article/pii/S1087079216301289?via%3Dihub" target="blank">[PDF]</a>
+Benjamins JS, Migliorati F, Dekker K, [et al., including **Blanken TF**]. Insomnia heterogeneity: Characteristics to consider for data-driven multivariate subtyping. *Sleep Med Rev* 2017; 37: 71—81. <a href="https://www.sciencedirect.com/science/article/pii/S1087079216301289?via%3Dihub" target="blank">[PDF]</a>
 
 Hammerschlag AR, Stringer S, De Leeuw CA, [et al., including **Blanken TF**]. Genome-wide association analysis of insomnia identifies novel risk genes and genetic overlap with psychiatric and metabolic traits. *Nat Genet* 2017; 49: 1584—92. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5600256/" target="blank">[PDF]</a>
 
