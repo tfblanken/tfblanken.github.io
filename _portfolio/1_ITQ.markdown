@@ -19,4 +19,6 @@ We are currently working on a short form and website through which the questionn
 </div>
 
 
-<a name="myfootnote1">1</a>: Important note for own use: the app automatically recodes contra-indicative items. Don't recode these items a priori (following the scoring file), as this will result in incorrect sum scores. Sorry for this confusion. 
+/br
+
+<sub><a name="myfootnote1">1</a>: Important note for own use: the app automatically recodes contra-indicative items. Don't recode these items a priori (following the scoring file), as this will result in incorrect sum scores. Sorry for this confusion. </sub>sub>
