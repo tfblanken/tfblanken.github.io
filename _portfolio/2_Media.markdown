@@ -13,7 +13,10 @@ img: /img/sea.jpg
 
 I was interviewed on my dissertation by Nederlands Kenniscentrum Angst, Dwang, Trauma en Depressie, see <a href="https://nedkad.nl/news/meer-inzicht-in-relatie-depressie-en-insomnia/" target="blank">here</a> (in Dutch). 
 
-<br/>
+<p align="center">
+  ***
+</p>
+
 
 I was asked to reflect on my research on insomnia for Glamour as one of the 'powerful women'!
 
