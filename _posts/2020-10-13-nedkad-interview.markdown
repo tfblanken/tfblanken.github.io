@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  interview (dutch)
-date:   2020-09-03 13:00:16
+date:   2020-10-13 13:00:16
 description: interview on my dissertation for NedKad
 ---
 
