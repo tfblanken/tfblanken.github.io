@@ -11,14 +11,28 @@ img: /img/sea.jpg
 
 **2020**
 
-I was interviewed on my dissertation by Nederlands Kenniscentrum Angst, Dwang, Trauma en Depressie, see <a href="https://nedkad.nl/news/meer-inzicht-in-relatie-depressie-en-insomnia/" target="blank">here</a> (in Dutch). 
+science versus corona
+
+- De Psycholoog made a nice <a href="https://www.tijdschriftdepsycholoog.nl/artikelen/project-exit-lockdown/" target="blank">report</a> on our Science versus Corona platform (Dutch). 
+
+- Press releases on our <a href="https://www.uva.nl/shared-content/faculteiten/nl/faculteit-der-maatschappij-en-gedragswetenschappen/nieuws/2020/03/uva-datawetenschappers-bieden-hun-expertise-aan.html" target="blank">data analysis platform</a> (Dutch), our aim to unite researchers across disciplines to come up with <a href="https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-maatschappij-en-gedragswetenschappen/news/2020/04/website-on-exit-strategies.html" target="blank">exit strategies</a>, and on our <a href="https://www.uva.nl/shared-content/faculteiten/nl/faculteit-der-maatschappij-en-gedragswetenschappen/nieuws/2020/08/onderzoekers-gaan-gedrag-op-kunstbeurs-meten.html" target="blank">large-scale behavioral experiment</a> (Dutch). 
+
+- <a href="https://studentinitiativeopenscience.wordpress.com/2020/04/23/science-versus-corona-an-interview/" target="blank">Interview</a> about our platform for the Student Initiative for Open Science.
+
+
 
 <p align="center">
   ***
 </p>
 
 
-I was asked to reflect on my research on insomnia for Glamour as one of the 'powerful women'!
+insomnia and depression
+
+- I was interviewed on my dissertation by Nederlands Kenniscentrum Angst, Dwang, Trauma en Depressie, see <a href="https://nedkad.nl/news/meer-inzicht-in-relatie-depressie-en-insomnia/" target="blank">here</a> (in Dutch). 
+
+- The interview was also featured in <a href="https://www.ggznieuws.nl/meer-inzicht-in-relatie-depressie-en-slapeloosheid/" target="blank">GGZ nieuws</a>.
+
+- I was asked to reflect on my research on insomnia for Glamour as one of the 'powerful women'!
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Sweet dreams 😴 <a href="https://t.co/7uRcMuUbyL">https://t.co/7uRcMuUbyL</a></p>&mdash; Glamour (@glamourmag) <a href="https://twitter.com/glamourmag/status/1237874710802653188?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
