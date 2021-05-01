@@ -5,13 +5,20 @@ title: papers
 description: scientific papers
 ---
 
+2021
+
+**Blanken TF**, Jansson-Fröjmark M, Sunnhed R, Lancee J. Symptom-specific effects of cognitive therapy and behavior therapy for insomnia: A network intervention analysis. *J Consult Clin Psychol* 2019; 6: 151—63. <a href="https://pubmed.ncbi.nlm.nih.gov/33630618/" target="blank">[link]</a>
+
+
+<br/>
+
 2020
 
 **Blanken TF**, Borsboom D, Penninx BWJH, Van Someren EJW. Network Outcome Analysis identifies difficulty imitating sleep as primary target for prevention of depression: A six-year prospective study. *Sleep* 2020; 43: 1--6. <a href="https://academic.oup.com/sleep/article/43/5/zsz288/5650354" target="blank">[PDF]</a>. The paper was featured as editor's choice, accompanied by an <a href="https://academic.oup.com/sleep/article-abstract/43/5/zsaa081/5835582?redirectedFrom=fulltext" target="blank">editorial</a>.
 
 Kocevska D\*, **Blanken TF**\*, Van Someren EJW, Rösler L. Sleep quality during the COVID-19 pandemic: Not one size fits all. *Sleep  Med* 2020; in press. <a href="https://www.sciencedirect.com/science/article/pii/S1389945720304408" target="blank">[PDF]</a>. 
 
-**Blanken TF**, Courbet O, Franc N, et al. Is an irritable ADHD profile traceable using personality dimensions? Replicability, stability, and predictive value over time of data-driven profiles. *Eur Child Adolesc Psychiatry* 2020. <a href="https://link.springer.com/article/10.1007/s00787-020-01546-z?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20200513" target="blank">[PDF]</a>
+**Blanken TF**, Courbet O, Franc N, et al. Is an irritable ADHD profile traceable using personality dimensions? Replicability, stability, and predictive value over time of data-driven profiles. *Eur Child Adolesc Psychiatry* 2020. <a href="https://link.springer.com/article/10.1007/s00787-020-01546-z?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20200513" target="blank">[PDF]</a>. The paper was incorporated into a special issue on diagnostic overlap, and was featured in the <a href="https://link.springer.com/article/10.1007/s00787-021-01766-x" target="blank">editorial</a>.
 
 De Mooij S, **Blanken TF**, Grasman RPPP, et al. Dynamics of sleep: Exploring critical transitions and early warning signals. *Comput Meth Prog Bio* 2020; 193:105448. <a href="https://www.sciencedirect.com/science/article/pii/S0169260719319108" target="blank">[PDF]</a>
 
