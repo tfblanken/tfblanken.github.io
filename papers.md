@@ -5,10 +5,28 @@ title: papers
 description: scientific papers
 ---
 
+submitted
+
+**Blanken TF**, Bathelt J, Deserno MK, Voge L, Borsboom D, Douw L. Connecting brain and behavior in clinical neuroscience: A network approach. (under review)
+
+**Blanken TF**, Tanis CC, Nauta FH, et al. Smart Distance Lab: Assessing social distancing interventions using behavioural contact networks. (under review) <a href="https://osf.io/mjg2f/" target="blank">[preprint]</a>
+
+Burger J*, Isvoranu A*, […], **Blanken TF**. Reporting standards for psychological network analyses in cross-sectional data. (revision under review) <a href="https://psyarxiv.com/4y9nz/" target="blank">[preprint]</a>
+
+Borsboom D, Blanken TF, Dablander F, et al. The lightning of the BECONs: A behavioural data science approach to tracking interventions in COVID-19 research. (under review) <a href="https://psyarxiv.com/53ey9/" target="blank">[preprint]</a>
+
+Lakbila-Kamal O, Leerssen J, Reesen JE, [et al., including Blanken TF]. Preventing depression by treating insomnia.
+
+Leerssen J, Lakbila-Kamal O, Dekkers LMS, [et al., including Blanken TF]. Treating insomnia to prevent depression with therapist-guided digital cognitive, behavioral and chronobiological interventions: A randomized controlled trial.
+
+
+<br/>
+
 2021
 
-**Blanken TF**, Jansson-Fröjmark M, Sunnhed R, Lancee J. Symptom-specific effects of cognitive therapy and behavior therapy for insomnia: A network intervention analysis. *J Consult Clin Psychol* 2019; 6: 151—63. <a href="https://pubmed.ncbi.nlm.nih.gov/33630618/" target="blank">[link]</a>
+**Blanken TF**, Jansson-Fröjmark M, Sunnhed R, Lancee J. Symptom-specific effects of cognitive therapy and behavior therapy for insomnia: A network intervention analysis. *J Consult Clin Psychol* 2021; 6: 151—63. <a href="https://pubmed.ncbi.nlm.nih.gov/33630618/" target="blank">[link]</a>
 
+Tanis CC, Leach NM, Nauta FH, […], **Blanken TF**. Smart Distance Lab - An experimental data set on social distancing during the COVID-19 pandemic. *Scientific Data* (accepted). <a href="https://osf.io/86sx7/" target="blank">[preprint]</a>
 
 <br/>
 
