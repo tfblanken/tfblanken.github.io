@@ -11,7 +11,7 @@ submitted
 
 **Blanken TF**, Tanis CC, Nauta FH, et al. Smart Distance Lab: Assessing social distancing interventions using behavioural contact networks. (under review) <a href="https://osf.io/mjg2f/" target="blank">[preprint]</a>
 
-Burger J*, Isvoranu A*, […], **Blanken TF**. Reporting standards for psychological network analyses in cross-sectional data. (revision under review) <a href="https://psyarxiv.com/4y9nz/" target="blank">[preprint]</a>
+Burger J\*, Isvoranu A\*, […], **Blanken TF**. Reporting standards for psychological network analyses in cross-sectional data. (revision under review) <a href="https://psyarxiv.com/4y9nz/" target="blank">[preprint]</a>
 
 Borsboom D, Blanken TF, Dablander F, et al. The lightning of the BECONs: A behavioural data science approach to tracking interventions in COVID-19 research. (under review) <a href="https://psyarxiv.com/53ey9/" target="blank">[preprint]</a>
 
