@@ -24,7 +24,7 @@ Leerssen J, Lakbila-Kamal O, Dekkers LMS, [et al., including **Blanken TF**]. Tr
 
 2021
 
-**Blanken TF**, Jansson-Fröjmark M, Sunnhed R, Lancee J. Symptom-specific effects of cognitive therapy and behavior therapy for insomnia: A network intervention analysis. *J Consult Clin Psychol* 2021; 6: 151—63. <a href="https://pubmed.ncbi.nlm.nih.gov/33630618/" target="blank">[link]</a>
+**Blanken TF**, Jansson-Fröjmark M, Sunnhed R, Lancee J. Symptom-specific effects of cognitive therapy and behavior therapy for insomnia: A network intervention analysis. *J Consult Clin Psychol* 2021;89: 364-370. <a href="https://pubmed.ncbi.nlm.nih.gov/33630618/" target="blank">[link]</a>
 
 Tanis CC, Leach NM, Nauta FH, […], **Blanken TF**. Smart Distance Lab - An experimental data set on social distancing during the COVID-19 pandemic. *Scientific Data* (accepted). <a href="https://osf.io/86sx7/" target="blank">[preprint]</a>
 
@@ -34,7 +34,7 @@ Tanis CC, Leach NM, Nauta FH, […], **Blanken TF**. Smart Distance Lab - An exp
 
 **Blanken TF**, Borsboom D, Penninx BWJH, Van Someren EJW. Network Outcome Analysis identifies difficulty imitating sleep as primary target for prevention of depression: A six-year prospective study. *Sleep* 2020; 43: 1--6. <a href="https://academic.oup.com/sleep/article/43/5/zsz288/5650354" target="blank">[PDF]</a>. The paper was featured as editor's choice, accompanied by an <a href="https://academic.oup.com/sleep/article-abstract/43/5/zsaa081/5835582?redirectedFrom=fulltext" target="blank">editorial</a>.
 
-Kocevska D\*, **Blanken TF**\*, Van Someren EJW, Rösler L. Sleep quality during the COVID-19 pandemic: Not one size fits all. *Sleep  Med* 2020; in press. <a href="https://www.sciencedirect.com/science/article/pii/S1389945720304408" target="blank">[PDF]</a>. 
+Kocevska D\*, **Blanken TF**\*, Van Someren EJW, Rösler L. Sleep quality during the COVID-19 pandemic: Not one size fits all. *Sleep  Med* 2020; 76: 86-88. <a href="https://www.sciencedirect.com/science/article/pii/S1389945720304408" target="blank">[PDF]</a>. 
 
 **Blanken TF**, Courbet O, Franc N, et al. Is an irritable ADHD profile traceable using personality dimensions? Replicability, stability, and predictive value over time of data-driven profiles. *Eur Child Adolesc Psychiatry* 2020. <a href="https://link.springer.com/article/10.1007/s00787-020-01546-z?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20200513" target="blank">[PDF]</a>. The paper was incorporated into a special issue on diagnostic overlap, and was featured in the <a href="https://link.springer.com/article/10.1007/s00787-021-01766-x" target="blank">editorial</a>.
 
@@ -49,9 +49,9 @@ Leerssen J, Foster-Dingley JC, Lakbila-Kamal O, [et al. including **Blanken TF**
 
 2019
 
-**Blanken TF**, Benjamins JS, Borsboom D, Vermunt JK, Paquola C, Ramautar J, Dekker K, Stoffers D, Wassing R, Wei Y, Van Someren EJW. Robust insomnia disorder subtypes revealed by non-sleep-related traits and life history. *Lancet Psychiatry* 2019; 6: 151—63. <a href="https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(18)30464-4/fulltext" target="blank">[PDF]</a>
+**Blanken TF**, Benjamins JS, Borsboom D, Vermunt JK, Paquola C, Ramautar J, Dekker K, Stoffers D, Wassing R, Wei Y, Van Someren EJW. Robust insomnia disorder subtypes revealed by non-sleep-related traits and life history. *Lancet Psychiatry* 2019; 6: 151-63. <a href="https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(18)30464-4/fulltext" target="blank">[PDF]</a>
 
-**Blanken TF**, Van Someren EJW. Subtyping insomnia disorder — Authors’ reply. *Lancet Psychiatry* 2019; 6: 285—86. <a href="https://www.thelancet.com/pdfs/journals/lanpsy/PIIS2215-0366(19)30079-3.pdf" target="blank">[PDF]</a>
+**Blanken TF**, Van Someren EJW. Subtyping insomnia disorder — Authors’ reply. *Lancet Psychiatry* 2019; 6: 285-86. <a href="https://www.thelancet.com/pdfs/journals/lanpsy/PIIS2215-0366(19)30079-3.pdf" target="blank">[PDF]</a>
 
 **Blanken TF**\*, Van der Zweerde T\*, Van Straten A, Van Someren EJW, Borsboom D, Lancee J. Treating co-occurring insomnia and depression symptoms: Introducing Network Intervention Analysis to reveal sequential, symptom-specific effects of online insomnia treatment. *Psychother Psychosom* 2019; 8: 52—54. <a href="https://www.karger.com/Article/FullText/495045" target="blank">[PDF]</a>
 
@@ -63,7 +63,7 @@ Te Lindert BHW, **Blanken TF**, Van der Meijden WP, et al. Actigraphic multi-nig
 
 2018
 
-**Blanken TF**\*, Deserno MK\*, Dalege J, Borsboom D, Blanken P, Kerkhof GA, Cramer AOJ. The role of stabilising and communicating symptoms given overlapping communities in psychopathology networks. *Sci Rep* 2018; 8: 1—8. <a href="https://www.nature.com/articles/s41598-018-24224-2" target="blank">[PDF]</a>
+**Blanken TF**\*, Deserno MK\*, Dalege J, Borsboom D, Blanken P, Kerkhof GA, Cramer AOJ. The role of stabilising and communicating symptoms given overlapping communities in psychopathology networks. *Sci Rep* 2018; 8: 1-8. <a href="https://www.nature.com/articles/s41598-018-24224-2" target="blank">[PDF]</a>
 
 **Blanken TF**\*, Dekker K\*, Van Someren EJW. How personality profile similar- ity can improve comparability between assessment formats: an example of the Mini-IPIP and IPIP-NEO-120 in a Dutch community sample. PsyArXiv 2018; doi:10.31234/osf.io/pjtgv. [non peer reviewed]
 
@@ -75,11 +75,11 @@ Wei Y, **Blanken TF**, Van Someren EJW. Insomnia really hurts: Habitual insomnia
 
 Dekker K\*, **Blanken TF**\*, Van Someren EJW. Insomnia and personality — A network approach. *Brain Sci* 2017; 7: 28. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5366827/" target="blank">[PDF]</a>
 
-Krypotos A-M, **Blanken TF**, Arnaudova I, Matzke D, Beckers T. A primer on Bayesian analysis for experimental psychopathologists. *J Exp Psychopathol* 2017; 8: 140–157. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28748068/" target="blank">[PDF]</a>
+Krypotos A-M, **Blanken TF**, Arnaudova I, Matzke D, Beckers T. A primer on Bayesian analysis for experimental psychopathologists. *J Exp Psychopathol* 2017; 8: 140-157. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28748068/" target="blank">[PDF]</a>
 
-Benjamins JS, Migliorati F, Dekker K, [et al., including **Blanken TF**]. Insomnia heterogeneity: Characteristics to consider for data-driven multivariate subtyping. *Sleep Med Rev* 2017; 37: 71—81. <a href="https://www.sciencedirect.com/science/article/pii/S1087079216301289?via%3Dihub" target="blank">[PDF]</a>
+Benjamins JS, Migliorati F, Dekker K, [et al., including **Blanken TF**]. Insomnia heterogeneity: Characteristics to consider for data-driven multivariate subtyping. *Sleep Med Rev* 2017; 37: 71-81. <a href="https://www.sciencedirect.com/science/article/pii/S1087079216301289?via%3Dihub" target="blank">[PDF]</a>
 
-Hammerschlag AR, Stringer S, De Leeuw CA, [et al., including **Blanken TF**]. Genome-wide association analysis of insomnia identifies novel risk genes and genetic overlap with psychiatric and metabolic traits. *Nat Genet* 2017; 49: 1584—92. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5600256/" target="blank">[PDF]</a>
+Hammerschlag AR, Stringer S, De Leeuw CA, [et al., including **Blanken TF**]. Genome-wide association analysis of insomnia identifies novel risk genes and genetic overlap with psychiatric and metabolic traits. *Nat Genet* 2017; 49: 1584-92. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5600256/" target="blank">[PDF]</a>
 
 Wei Y, Colombo MA, Ramautar JR, **Blanken TF**, Van der Werf YD, Van Someren EJW. (2017). Sleep stage transition dynamics reveal specific stage 2 vulnerability in insomnia. *Sleep* 2017; 40: doi.org/10.1093/sleep/zsx117. <a href="https://academic.oup.com/sleep/article/40/9/zsx117/3926054" target="blank">[PDF]</a>
 
