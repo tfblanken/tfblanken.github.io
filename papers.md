@@ -13,11 +13,11 @@ submitted
 
 Burger J\*, Isvoranu A\*, […], **Blanken TF**. Reporting standards for psychological network analyses in cross-sectional data. (revision under review) <a href="https://psyarxiv.com/4y9nz/" target="blank">[preprint]</a>
 
-Borsboom D, Blanken TF, Dablander F, et al. The lightning of the BECONs: A behavioural data science approach to tracking interventions in COVID-19 research. (under review) <a href="https://psyarxiv.com/53ey9/" target="blank">[preprint]</a>
+Borsboom D, **Blanken TF**, Dablander F, et al. The lightning of the BECONs: A behavioural data science approach to tracking interventions in COVID-19 research. (under review) <a href="https://psyarxiv.com/53ey9/" target="blank">[preprint]</a>
 
-Lakbila-Kamal O, Leerssen J, Reesen JE, [et al., including Blanken TF]. Preventing depression by treating insomnia.
+Lakbila-Kamal O, Leerssen J, Reesen JE, [et al., including **Blanken TF**]. Preventing depression by treating insomnia.
 
-Leerssen J, Lakbila-Kamal O, Dekkers LMS, [et al., including Blanken TF]. Treating insomnia to prevent depression with therapist-guided digital cognitive, behavioral and chronobiological interventions: A randomized controlled trial.
+Leerssen J, Lakbila-Kamal O, Dekkers LMS, [et al., including **Blanken TF**]. Treating insomnia to prevent depression with therapist-guided digital cognitive, behavioral and chronobiological interventions: A randomized controlled trial.
 
 
 <br/>
