@@ -23,6 +23,7 @@ Alleen dat stuk hoef je aan te passen. Menu en opmaak staan erbuiten en zijn op 
 | Current projects | `projects/current/index.html` |
 | Past projects | `projects/past/index.html` |
 | /projects/ (stuurt door naar current) | `projects/index.html` |
+| The Dual Nature of Sleep (Veni) | `projects/current/dual-nature-of-sleep/index.html` |
 | Network Intervention Analysis | `projects/current/network-intervention-analysis/index.html` |
 | GIN (placeholder) | `projects/past/gin/index.html` |
 | Psychological Systems (placeholder) | `projects/past/psych-systems/index.html` |
