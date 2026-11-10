@@ -23,9 +23,9 @@ Alleen dat stuk hoef je aan te passen. Menu en opmaak staan erbuiten en zijn op 
 | Current projects | `projects/current/index.html` |
 | Past projects | `projects/past/index.html` |
 | /projects/ (stuurt door naar current) | `projects/index.html` |
-| Network Intervention Analysis | `network-intervention-analysis/index.html` |
-| GIN (placeholder) | `gin/index.html` |
-| Psychological Systems (placeholder) | `psych-systems/index.html` |
+| Network Intervention Analysis | `projects/current/network-intervention-analysis/index.html` |
+| GIN (placeholder) | `projects/past/gin/index.html` |
+| Psychological Systems (placeholder) | `projects/past/psych-systems/index.html` |
 | Opmaak (kleuren, lettertypen) | `assets/css/style.css` |
 
 ## Veelvoorkomende klussen
@@ -45,7 +45,7 @@ Voor een nieuw jaar kopieer je een heel blok (`<h2 class="section">2026</h2>` pl
 
 **Nieuwe kaart (media, presentations, projects)**: kopieer een bestaand `<a class="card" ...> ... </a>`-blok en pas link, afbeelding, titel en tekst aan.
 
-**Placeholderpagina invullen**: in `gin/index.html` en `psych-systems/index.html` staan `<!-- TODO -->`-opmerkingen op de plekken waar tekst, publicaties en presentaties moeten komen. Vervang "More information about this project will follow soon." en "Coming soon." door je eigen tekst. Wat tussen `<!--` en `-->` staat, is onzichtbaar op de site.
+**Placeholderpagina invullen**: in `projects/past/gin/index.html` en `projects/past/psych-systems/index.html` staan `<!-- TODO -->`-opmerkingen op de plekken waar tekst, publicaties en presentaties moeten komen. Vervang "More information about this project will follow soon." en "Coming soon." door je eigen tekst. Wat tussen `<!--` en `-->` staat, is onzichtbaar op de site.
 
 ## Technisch
 
