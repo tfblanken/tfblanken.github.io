@@ -20,7 +20,9 @@ Alleen dat stuk hoef je aan te passen. Menu en opmaak staan erbuiten en zijn op 
 | Papers | `papers/index.html` |
 | Presentations | `presentations/index.html` |
 | Media | `media/index.html` |
-| Projects | `projects/index.html` |
+| Current projects | `projects/current/index.html` |
+| Past projects | `projects/past/index.html` |
+| /projects/ (stuurt door naar current) | `projects/index.html` |
 | Network Intervention Analysis | `network-intervention-analysis/index.html` |
 | GIN (placeholder) | `gin/index.html` |
 | Psychological Systems (placeholder) | `psych-systems/index.html` |
